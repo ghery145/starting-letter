@@ -1,10 +1,12 @@
-div.R {
-        text-align: right;
+div.R { 
+    text-align: right;
 }
+
 p {
     margin-top: 1px;
     margin-bottom: 1px;
 }
+
 p.Ping {
     margin-left: 30px;
 }
